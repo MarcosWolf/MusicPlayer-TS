@@ -1,0 +1,135 @@
+@use './../1-base/variables'
+@use './../1-base/base-mixins'
+
+.player-container
+    width: 20rem
+    transition: 0.3s
+    background-color: red
+    border-radius: 20px
+    margin: 0 auto
+
+    // Header
+    .player-top
+        display: flex
+        justify-content: space-between
+        text-align: center
+        align-items: center
+        padding: 2rem 1.3rem
+        color: variables.$primary-color
+    
+        &-textHeader
+            font-weight: 100
+            font-size: 0.7rem
+            line-height: 1rem
+            letter-spacing: .1rem
+            text-transform: uppercase
+
+            p
+                margin: 0
+
+            .player-top-albumHeader
+                text-transform: capitalize
+                letter-spacing: 0
+                font-weight: bold
+
+    // Album portrait
+    .player-song-imgAlbum
+        padding: 1.3rem
+
+        img
+            width: 100%
+            height: 100%
+            object-fit: cover
+            border-radius: 5px
+
+    // Music titles
+    .player-song-mainData
+        margin-top: 2rem
+        display: flex
+        justify-content: space-between
+        align-items: center
+        padding: 0 1rem
+
+        .player-song-dataTitle
+            .player-song-title
+                font-size: 1.2rem
+                margin-bottom: .2rem
+                font-weight: 500
+                color: variables.$primary-color
+
+            .player-song-artist
+                font-size: 1rem
+                font-weight: 400
+                color: variables.$secondary-color
+
+        .player-song-favorite
+            color: variables.$secondary-color
+            cursor: pointer
+
+    // Progress bar
+    .player-song-progress        
+        margin: 0 1.3rem
+        
+        .player-song-trackbar
+            background: rgba(255, 255, 255, 0.2)
+            border-radius: 5px
+            width: 100%
+            margin-top: 1rem
+            height: 0.5rem
+
+            .trackbar-currentProgress
+                background: variables.$primary-color
+                border-radius: 5px
+                height: 100%
+                //widht: 0%
+                width: 75%
+                transition: width 0.1s linear
+
+            .player-song-durationWrapper
+                margin-top: .5rem
+                font-size: .7rem
+                display: flex
+                justify-content: space-between
+                color: variables.$primary-color
+
+    // Controls
+    .player-controls
+        margin-top: 3.7rem
+        display: flex
+        align-items: center
+        justify-content: space-between
+        padding: 0 1.2rem
+        margin-bottom: 2.4rem
+
+        i
+            font-size: 1.4rem
+            color: variables.$primary-color
+            cursor: pointer
+
+        .control-previousTrack, .control-nextTrack
+            i
+                font-size: 2rem
+
+        .control-togglePlay
+            i
+                font-size: 4.3rem
+
+    // Bottom
+    .player-bottom
+        padding: .2rem 1.2rem 2rem 1.2rem
+        display: flex
+        justify-content: space-between
+        align-items: center
+
+        i
+            font-size: 1.4rem
+            color: variables.$primary-color
+            
+        .player-bottom-right
+            display: flex
+            justify-content: space-between
+            align-items: center
+            gap: 20px
+
+
+        
