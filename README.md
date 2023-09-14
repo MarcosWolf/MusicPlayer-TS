@@ -24,8 +24,7 @@
    
    ## 🎯 Objetivo
 
-   Descrição
-   
+   Um player de música com a aparência e principais funcionalidades inspiradas pelo aplicativo Spotify.
 </div>
 
 <br />
@@ -34,10 +33,9 @@
 
 ## 📝 Funcionalidades
 
-- [x] Prototipagem do Projeto
-- [x] Construção do Layout
-- [ ] Responsividade
-- [ ] Construção do Backend
+- [x] Estrutura do SASS
+- [ ] 
+- [ ] 
 
 </div>
 
