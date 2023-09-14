@@ -34,8 +34,8 @@
 ## 📝 Funcionalidades
 
 - [x] Estrutura do SASS
-- [ ] 
-- [ ] 
+- [ ] Função Repeat
+- [ ] Função Shuffle
 
 </div>
 
