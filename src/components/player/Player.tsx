@@ -1,24 +1,19 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faChevronDown, faEllipsisVertical } from '@fortawesome/free-solid-svg-icons';
+import PlayerTop from "./PlayerTop/PlayerTop";
+import PlayerAlbum from "./PlayerAlbum/PlayerAlbum";
+import PlayerData from "./PlayerData/PlayerData";
+import PlayerProgress from "./PlayerProgress/PlayerProgress";
+import PlayerControls from "./PlayerControls/PlayerControls";
+import PlayerBottom from "./PlayerBottom/PlayerBottom";
 
 const Player = () => {
     return (
         <div className="player-container">
-            <div className="player-top">
-                <div className="player-top-btnBack">
-                    <i className="fa-solid fa-chevron-down"></i>
-                    <FontAwesomeIcon icon={faChevronDown} />
-                </div>
-
-                <div className="player-top-textHeader">
-                    <p>Tocando do álbum</p>
-                    <p><span className="player-top-albumHeader">album name</span></p>
-                </div>
-
-                <div className="player-top-btnAbout">
-                    <FontAwesomeIcon icon={faEllipsisVertical} />
-                </div>
-            </div>
+            <PlayerTop />
+            <PlayerAlbum />
+            <PlayerData />
+            <PlayerProgress />
+            <PlayerControls />
+            <PlayerBottom />            
         </div>
     );
 }
