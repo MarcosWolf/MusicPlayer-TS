@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img src="https://github.com/MarcosWolf/spotify-player/assets/26293082/2a2e8ec8-2452-421e-9ed0-b2e9c523291c" />
+    <img src="https://github.com/MarcosWolf/spotify-player/assets/26293082/8c31ed74-8084-4b8f-9cd5-fad1694d7b5d" />
+
 </h1>
 
 <h4 align="center"> 
