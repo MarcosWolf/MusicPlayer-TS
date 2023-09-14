@@ -25,6 +25,7 @@
    ## 🎯 Objetivo
 
    Um player de música com a aparência e principais funcionalidades inspiradas pelo aplicativo Spotify.
+   Havia desenvolvido essa aplicação anteriormente usando apenas JavaScript, porém decidi começar a refazê-la com React e Typescript.
 </div>
 
 <br />
