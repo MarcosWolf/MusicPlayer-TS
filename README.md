@@ -45,18 +45,8 @@
 
   ## 🎨 Layout
 
-  ### Mobile
-  
 <p align="center">
-  <img src="" width="200px">
-
-  <img src="" width="200px">
-</p>
-
-  ## Web
-
-<p align="center">
-  <img src="" width="400px">
+  <img src="https://github.com/MarcosWolf/spotify-player/assets/26293082/dc2c2eba-740a-46e7-9f5d-832650d23ab6" width="400px">
 </p>
 
 
