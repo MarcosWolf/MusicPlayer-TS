@@ -66,7 +66,8 @@
 
    ## 🚀 Demonstração
 
-   Futuramente você poderá visualizar o projeto através deste link: <br/>
+   Você pode visualizar o projeto desenvolvido em JavaScript através deste link:
+   [https://spotifyclone.marcoswolf.com.br](https://spotifyclone.marcoswolf.com.br/)
    
    
 </div>
