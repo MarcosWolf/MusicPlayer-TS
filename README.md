@@ -3,8 +3,6 @@
    Um player de música com a aparência e principais funcionalidades inspiradas pelo aplicativo Spotify, desenvolvido com JavaScript.
 
 ### Tecnologias
-   
-As seguintes ferramentas foram usadas na construção do projeto:
 
 - HTML5
 - CSS3
