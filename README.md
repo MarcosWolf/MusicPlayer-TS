@@ -17,6 +17,8 @@ Você pode visualizar o projeto desenvolvido em JavaScript através deste link: 
 
 - [X] Layout
 - [ ] Responsividade
+- [X] Play/Pause
+- [X] Sistema de Playlist com informações das faixas
 - [X] Barra de Progresso
 - [X] Repetição
 - [ ] Shuffle
