@@ -13,6 +13,15 @@
 Você pode visualizar o projeto desenvolvido em JavaScript através deste link: <br />
 [https://spotifyclone.marcoswolf.com.br](https://spotifyclone.marcoswolf.com.br/)
 
+## Funcionalidades
+
+- [X] Layout
+- [ ] Responsividade
+- [X] Barra de Progresso
+- [X] Repetição
+- [ ] Shuffle
+- [ ] Portabilidade para React
+
 ## Layout
 
 <p align="center">
