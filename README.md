@@ -1,4 +1,4 @@
-# Spotify-Player
+# SpotifyPlayer-JS
 
    Um player de música com a aparência e principais funcionalidades inspiradas pelo aplicativo Spotify, desenvolvido com JavaScript.
 
