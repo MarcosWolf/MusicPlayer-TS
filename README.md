@@ -1,28 +1,26 @@
-# SpotifyPlayer-JS
+# SpotifyPlayer-TS
 
-   Um player de música com a aparência e principais funcionalidades inspiradas pelo aplicativo Spotify, desenvolvido com JavaScript.
+   Um player de música com a aparência e principais funcionalidades inspiradas pelo aplicativo Spotify, desenvolvido com React e TypeScript.
 
 ### Tecnologias utilizadas
 
 - HTML5
 - CSS3
-- JavaScript
+- TypeScript
+- React
 
 ### Demonstração
 
-Você pode visualizar o projeto desenvolvido em JavaScript através deste link: <br />
-[https://spotifyclone.marcoswolf.com.br](https://spotifyclone.marcoswolf.com.br/)
+Atualmente a aplicação se encontra em desenvolvimento.
 
 ## Funcionalidades
 
 - [X] Layout
-- [ ] Responsividade
-- [X] Play/Pause
-- [X] Sistema de Playlist com informações das faixas
-- [X] Barra de Progresso
-- [X] Repetição
+- [ ] Play/Pause
+- [ ] Sistema de Playlist com informações das faixas
+- [ ] Barra de Progresso
+- [ ] Repetição
 - [ ] Shuffle
-- [ ] Portabilidade para React
 
 ## Layout
 
